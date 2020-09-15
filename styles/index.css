@@ -1,0 +1,34 @@
+body{
+	background-color: #f8f8f8;
+	box-sizing: border-box;
+}
+nav{
+	background-color: transparent;
+	height: 100px;
+	font-size: 20px;
+}
+.logo{
+	width: 100px;
+	height: 70px;
+}
+.container-lg__header__imgbg{
+	background-image: url('../images/1.jpg');	
+	background-size: cover;
+	height: 350px;
+
+}
+.container__contactos__top{	
+	width: 100%;
+	height: 50px;
+	background-color: var(--black);
+	
+
+}
+.img__whatsapp{
+	height: 30px;
+	width: 30px;
+}
+.img__phone{
+	height: 30px;
+	width: 30px;
+}
