@@ -19,10 +19,11 @@ nav{
 }
 .container__contactos__top{	
 	width: 100%;
-	height: 50px;
+	height: 50px;	
 	background-color: var(--black);
-	
-
+}
+.container__contactos__top--height{
+	height: 50px;
 }
 .img__whatsapp{
 	height: 30px;
