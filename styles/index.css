@@ -9,7 +9,7 @@ nav{
 }
 .logo{
 	width: 120px;
-	height: 80px;
+	height: 70px;
 }
 .container-lg__header__imgbg{
 	background-image: url('../images/1.jpg');	
@@ -33,3 +33,60 @@ nav{
 	height: 30px;
 	width: 30px;
 }
+
+/*Header*/
+/*Caroucel*/
+.carousel-indicators li{
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+
+}
+.header__carrusel__images{
+	height: 500px;
+}
+.carousel-caption--wordpress{
+	background-color: rgb(85, 98, 112, 0.5);
+	height: 100%;
+	width: 300px;
+	left: 0;
+	top:  0;
+	padding: 150px 30px;
+	line-height: 20px;
+}
+.carousel-caption--desarrollo{	
+	background-color: rgb(85, 98, 112, 0);
+	height: 100%;
+	width: 530px;	
+	right: 0;
+	top:  0;
+	padding: 140px 30px;
+	line-height: 20px;
+	margin-left: auto;
+}
+.carousel-caption--googleAds{
+	background-color: rgb(85, 98, 112, 0.2);
+	height: 100%;
+	width: 350px;
+	right: 0;
+	top:  0;
+	padding: 120px 30px;
+	line-height: 20px;
+	margin-left: auto;
+}
+.carousel-caption p {
+	line-height: 40px;
+}
+
+.btn--desarrollo{
+	width: 240px;
+	height: 40px;
+	border-radius: 30px;
+	border-color: transparent;
+	margin-top: 44px;
+	margin-right: 10px;
+
+	
+}
+
+
